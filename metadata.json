@@ -1,0 +1,6 @@
+{
+  "name": "ElectroTech AI",
+  "description": "Asistente inteligente para mantenimiento industrial y diagnóstico de armarios eléctricos con visión artificial, RAG técnico, control por voz e historial de averías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
